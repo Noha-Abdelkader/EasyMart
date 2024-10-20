@@ -1,0 +1,1 @@
+import{L as t}from"./Ds0kjeUA.js";import{u as e}from"./8TPwjKdS.js";const g=t("userStore",()=>{const r=e("marketUser",{maxAge:2592e6,default:()=>{}}),s=e("marketUserIsLoggedIn",{maxAge:2592e6,default:()=>!1});return{marketUser:r,marketUserIsLoggedIn:s}});export{g as u};
